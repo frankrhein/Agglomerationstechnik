@@ -20,7 +20,7 @@ import matplotlib.pyplot as plt
 # mrksze: Markersize
 # lnewdth: Linewidth (of lines used in plot)
 # use_locale: If True use local number format
-def plot_init(scl_a4=1,page_lnewdth_cm=16.5,scl=1,fnt='Latin Modern Roman',figsze=[6.4,4.8],frac_lnewdth=0.6,mrksze=6,lnewdth=1.5,use_locale=False):
+def plot_init(scl_a4=1,page_lnewdth_cm=16.5,scl=1,fnt='Arial',figsze=[6.4,4.8],frac_lnewdth=0.6,mrksze=6,lnewdth=1.5,use_locale=False):
     
     # --- Initialize defaults ---
     plt.rcdefaults()
