@@ -2,7 +2,7 @@
 """
 @author: Frank Rhein, KIT (MVM)
 
-Skript zur Berechnung der diffusiven und konvektiven collision efficiency
+Skript zur Berechnung der diffusiven und konvektiven collision frequency
 """
 ## ---- Imports ---- ##
 import numpy as np
